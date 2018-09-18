@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="roll_number">L154072</string>
+    <string name="relativebttext">Relative Layout</string>
+    <string name="constraintbttext">Constraint Layout</string>
+    <string name="relativecheckboxtext">Terms and condition</string>
+    <string name="registterbttext">Register</string>
+    <string name="radiotext1">Male</string>
+    <string name="radiotext2">Femal</string>
+</resources>
